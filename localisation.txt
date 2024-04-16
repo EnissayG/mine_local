@@ -1,5 +1,5 @@
 Mansion : -16157 73 -2233
-Base : -13531 63 -31
+Base : -13552 63 -3124
 Old base : -12765 66 -2959
 Portal neither : -1676 75 -373
 Double blaze spawner (in nether): -1909 60 -530
