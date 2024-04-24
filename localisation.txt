@@ -6,3 +6,4 @@ Double blaze spawner (in nether): -1909 60 -530
 Big hole : -2133 90 -251
 Furnace : -13489 70 -3252
 Smith : -13490 63 -3255
+Village montage_grotte : tp
