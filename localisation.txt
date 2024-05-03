@@ -4,4 +4,8 @@ Old base : -12765 66 -2959
 Portal neither : -1676 75 -373
 Double blaze spawner (in nether): -1909 60 -530
 skeleton spawner : -13576 -43 -2936
-spwner : -13576 -43 -2936
+Big hole : -2133 90 -251
+Furnace : -13489 70 -3252
+Smith : -13490 63 -3255
+Village montage_grotte : tp
+
