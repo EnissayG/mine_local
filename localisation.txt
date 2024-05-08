@@ -8,4 +8,6 @@ Big hole : -2133 90 -251
 Furnace : -13489 70 -3252
 Smith : -13490 63 -3255
 Village montage_grotte : tp
+desert village : 1720 ~ 872
+slime biome : 5501 82 2781
 
